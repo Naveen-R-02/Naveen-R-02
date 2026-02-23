@@ -77,8 +77,7 @@ Secure chat app with authentication using Python, Flask, and Socket.IO.
 * TCS iON Career Skills Certification
 * Introduction to Cyber Security Certification by CISCO
 * Introduction to Cryptography Certification by Simplilearn
-* 
-
+  
 ---
 
 🏆 Achievements
