@@ -17,16 +17,15 @@
 
 ---
 
-  Skills
+Skills
 
-  Programming
+Programming
 
 * Python
 * JavaScript (Beginner)
-  
 
-  Cyber Security
-  
+
+Cyber Security
 
 * Network Security
 * Ethical Hacking (Beginner)
