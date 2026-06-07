@@ -17,16 +17,16 @@
 
 ---
 
- Skills
+  Skills
 
- Programming
+  Programming
 
 * Python
-* Java
-* C
 * JavaScript (Beginner)
+  
 
   Cyber Security
+  
 
 * Network Security
 * Ethical Hacking (Beginner)
@@ -39,8 +39,6 @@
 * HTML
 * CSS
 * Flask
-* Django (Learning)
-* MERN Stack (Learning)
 
  Tools & Technologies
 
