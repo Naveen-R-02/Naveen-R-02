@@ -1,32 +1,32 @@
-👋 Hello, I'm Naveen R
+ Hello, I'm Naveen R
 
-🎓 Pursuing Bachelors of Computer Applications at Nitte Institute of Professional Education
-🔐 Specializing in Cyber Security | Python Developer | AI Enthusiast
-🚀 Passionate about building secure and intelligent tech solutions.
-
----
-
-🌟 About Me
-
-* 🔐 Specializing in Cyber Security
-* 💻 Learning Full Stack Development
-* 🤖 Interested in Artificial Intelligence, Ethical Hacking & Secure Systems
-* 🌱 Exploring Flask, Django, MERN Stack, and Cloud Security
-* 💡 Love working on projects that solve real-life problems and improve safety
-* 🎯 Goal: To become a skilled Cyber Security Engineer and build secure digital products
+ Pursuing Bachelors of Computer Applications at Nitte Institute of Professional Education
+ Specializing in Cyber Security | Python Developer | AI Enthusiast
+ Passionate about building secure and intelligent tech solutions.
 
 ---
 
-🧠 Skills
+ About Me
 
-💻 Programming
+*  Specializing in Cyber Security
+*  Learning Full Stack Development
+*  Interested in Artificial Intelligence, Ethical Hacking & Secure Systems
+*  Exploring Flask, Django, MERN Stack, and Cloud Security
+*  Love working on projects that solve real-life problems and improve safety
+*  Goal: To become a skilled Cyber Security Engineer and build secure digital products
+
+---
+
+ Skills
+
+ Programming
 
 * Python
 * Java
 * C
 * JavaScript (Beginner)
 
-🔐 Cyber Security
+  Cyber Security
 
 * Network Security
 * Ethical Hacking (Beginner)
@@ -34,7 +34,7 @@
 * Vulnerability Analysis
 * Secure Coding Practices
 
-🌐 Web Development
+ Web Development
 
 * HTML
 * CSS
@@ -42,7 +42,7 @@
 * Django (Learning)
 * MERN Stack (Learning)
 
-🧰 Tools & Technologies
+ Tools & Technologies
 
 * Git & GitHub
 * VS Code
@@ -52,7 +52,7 @@
 
 ---
 
-🚀 Projects
+ Projects
 
 🔹 Gram Sahayak – AI Financial Assistant
 
@@ -62,17 +62,13 @@ AI assistant to help rural people understand banking and financial services with
 
 Using YOLOv8 and Flask for crowd detection, anomaly alerts, and safety recommendations.
 
-🔹 Smart Home Security System
-
-AI-powered system to detect suspicious behaviour and send real-time alerts.
-
 🔹 Real-Time Chat Application
 
 Secure chat app with authentication using Python, Flask, and Socket.IO.
 
 ---
 
-📜 Certifications
+ Certifications
 
 * TCS iON Career Skills Certification
 * Introduction to Cyber Security Certification by CISCO
@@ -80,7 +76,7 @@ Secure chat app with authentication using Python, Flask, and Socket.IO.
   
 ---
 
-🏆 Achievements
+ Achievements
 
 * Participated in a National Level Hackathon
 * Building AI-based and security-focused solutions
@@ -88,11 +84,10 @@ Secure chat app with authentication using Python, Flask, and Socket.IO.
 
 ---
 
-📫 Connect With Me
+ Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/naveen-r-886837355
-* 📧 Email: ny0919063gmail.com
+*  LinkedIn: www.linkedin.com/in/naveen-r-886837355
+*  Email: ny0919063gmail.com
 
 ---
 
-⭐ "Security, Innovation, and Impact through Technology."
