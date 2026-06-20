@@ -84,7 +84,7 @@ Secure chat app with authentication using Python, Flask, and Socket.IO.
  Connect With Me
 
 *  LinkedIn: www.linkedin.com/in/naveen-r-886837355
-*  Email: ny0919063gmail.com
+*  Email: naveen.r.0208@gmail.com
 
 ---
 
